@@ -1,6 +1,6 @@
-## 김서영 — Java/Spring Boot 웹개발자
+## 김서영 — Java/Spring Boot 개발자
 
-Java/Spring Boot 기반 웹 개발자입니다. 회계·세무 분야 6년 경력을 통해 쌓은 업무 이해력을 바탕으로 사용자 관점의 서비스를 만들어갑니다.
+Java/Spring Boot 기반 개발자입니다. 회계·세무 분야 6년 경력을 통해 쌓은 업무 이해력을 바탕으로 사용자 관점의 서비스를 만들어갑니다.
 
 ### Tech Stack
 **Backend:** Java 17, Spring Boot, Spring Security, MyBatis, Oracle DB, JWT  
